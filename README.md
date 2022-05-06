@@ -1,4 +1,4 @@
-Alchemy Notify 🔔 Tutorial
+Alchemy Notify 🔔
 ============
 
 dApps on Ethereum have come a long way over the last several years, both in popularity and in complexity. Unfortunately, the user experience of most dApps is still lacking in comparison to web2 applications.
@@ -60,3 +60,5 @@ for more detailed instructions.  The Heroku instructions included below are abri
       * Run `git push heroku master` to push and deploy your heroku app.
      
 🎉 Congratulations on your dApp deployment! Feel free to edit your app, change its behavior, or make the frontend more spiffy!
+
+The link to the deployed app is: ![here](https://agile-peak-16077.herokuapp.com/)
