@@ -61,4 +61,4 @@ for more detailed instructions.  The Heroku instructions included below are abri
      
 🎉 Congratulations on your dApp deployment! Feel free to edit your app, change its behavior, or make the frontend more spiffy!
 
-The link to the deployed app is: ![here](https://agile-peak-16077.herokuapp.com/)
+The link to the deployed app is: https://agile-peak-16077.herokuapp.com/
